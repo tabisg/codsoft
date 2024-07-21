@@ -1,0 +1,452 @@
+@media screen and (max-width: 500px)
+ {    .name{ display: none;}
+}
+body{
+    /* background-color: #d099cf75; */
+    /* background-image: url(myphoto1.jpg); */
+    max-width: fit-content;
+    max-height: fit-content;
+    /* opacity: 2; */
+    height: 2516.27px
+}
+.background-image{
+    position: fixed;
+    opacity: 0.5;
+    max-width: fit-content;
+}
+.transform-box{
+    border: solid #91dbbf 1px;
+    display: initial;
+    padding-top: 0px;
+    padding-right: 117px;
+    width: 79.333px;
+    height: 77px;
+    padding-left: 109px;
+    margin-bottom: 26.92px;
+    font-family: 'Black Ops One', cursive;
+    font-size: 355%;
+    color: #000;
+    font-weight: bolder;  
+  
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    /* margin-top: 54px; */
+    margin-right: 218px;
+    float: right;
+}
+
+.aryan-linkshere{
+    margin: 10px;
+    /* margin-right: 67px; */
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 43px;
+    padding-right: 44px;
+}
+.aryan-linkshere:hover{
+    background: #91dbbf;
+}
+nav ul{
+    display: none;
+    list-style-type: none;
+    border: dotted red 1px;
+    padding-top: 12px;
+    padding-bottom: 16px;
+    padding-right: 28px
+}
+.line-making{
+    border: solid black 0px;
+    background-color: #00aeb759;
+    margin-top: 10px;
+    margin-bottom: -5px;
+    padding-bottom: 258px;
+
+}
+.My-photo{
+    border: solid white;
+    border-radius: 50%;
+    align-items: center;
+    position: relative;
+    left: 637px;
+    top: -115px;
+    bottom: -1px;
+    width: 220px;
+    height: 220px;
+    padding-left: 0px;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+   
+}
+.About-myself-heading{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 361%;
+    position: relative;
+    bottom:  95%;
+    left: 36%;
+}
+.About-myself{
+    font-style: italic;
+    font-weight: bold;
+    border: solid black 1px;
+    text-align: justify;
+    width: 98%px;
+    height: 113px;
+    padding-top: 12px;
+    padding-right: 15px;
+    padding-left: 18px;
+    padding-bottom: 9px;
+    position: relative;
+    bottom: -12px;
+}
+#eductaion-qualification{
+    position: relative;
+top: 1024px;
+right: 286px;
+}
+.education-qualification{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 230%;
+    position: relative;
+    bottom: 367px;
+    left: 865px;
+}
+.table-data{
+    position: relative;
+    bottom:356px ;
+    left: 412px;
+    width: 1100px;
+    height: 239px;
+}
+ th{
+    border: solid black 2px;
+    padding-top: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+}
+ td{
+    border: solid blue 1px;
+    padding-left: 9px;
+    padding-right: 4px;
+    padding-top: 21px;
+    /* margin-bottom: 15px; */
+    padding-bottom: 10px;
+    transform: translate(-5px -10px);
+}
+td:hover{
+    color: aqua;
+}
+.Flex-container{
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    bottom: -738px;
+}
+.Skill-demonstration{
+    font-family: 'Sedgwick Ave Display', cursive;  
+    display: block;
+    font-size: 365%;
+    position: relative;
+    left: 6px;
+    margin-left: 82px;
+    bottom: 0px;
+    top: 70px;
+}
+.video-editing{
+    width: 20%;
+    height: 425.75px;
+    background-color: #d1f45482;
+    margin-top: 0px;
+    position: relative;
+    top: 68px;
+    border: solid red 1px;
+}
+.video-editing1{
+    left: 303px;
+    width: 20%;
+    height: 425.75px;
+    background-color: #d1f45482;
+    margin-top: 0px;
+    position: relative;
+    top: -358px;
+    border: solid red 1px;
+}
+.video-editing2{
+    left: 624px;
+    width: 20%;
+    height: 425.75px;
+    background-color: #d1f45482;
+    margin-top: 0px;
+    position: relative;
+    top: -784px;
+    border: solid red 1px;
+}
+.video-editor{
+    margin-top: 42px;
+    margin-right: 0px;
+    margin-left: -19px;
+    width: 223px;
+}
+.video-editor:hover{
+    opacity: 1.0;
+}
+.alightmotion{
+    width: 39px;
+    margin-top: 0px;
+    margin-bottom: -45px;
+    margin-left: -167px;
+}
+.after-affect{
+    width: 61px;
+    margin-top: 0px;
+    position: relative;
+    top: 59px;
+}
+.canva{
+    width: 281px;
+    position: relative;
+    top: 204px;
+    left: 12px;
+    padding-top: 0px;
+margin-top: -92px;
+}
+.word{
+    font-size: 360%;
+    position: relative;
+    top: 4px;
+    bottom: 54px;
+    left: 95px;
+    width: 97px;
+    color: #10dbf0b2;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.webdeveloper{
+    margin-top: -100px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 122px;
+    margin-left: 402px;
+    position: relative;
+    top: 220px;
+    left: -315px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.Words{
+    font-size: 360%;
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-top: 4%;
+    margin-left: 3%;
+    position: relative;
+    top: 67px;
+    left: -3px;
+    color: #10dbf0b2;
+}
+.words{
+    color: #10dbf0b2;
+    font-size: 300%;
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-top: -5%;
+    margin-left: 41%;
+    position: relative;
+    /* top: 30px; */
+    bottom: -65px;
+    top: -20px;
+left: -81px;
+}
+.Skill-box-making{
+    width: 155px;
+    border: solid #499b59 1px;
+    font-weight: bold;
+    box-sizing: content-box;
+text-align: justify;
+display: flex;
+margin-right: 11px;
+background-image: url(images\ 3.avif);
+padding: 10px;
+margin-top: 92px;
+padding-bottom: 137px;
+padding-right: 60px;
+}
+
+#downloadButton{
+    position: relative;
+    left: 48%;
+    /* bottom: 1059.33px; */
+    padding-left: 37px;
+    padding-bottom: 60px;
+    padding-right: 218px;
+    background: url(download.png) no-repeat center center; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    padding-top: 10px;
+    /* border: solid #d0be2b 4px; */
+padding-top: 42px;
+/* top: -1016.33px; */
+margin-top: 7px;
+    }
+.download-button-written{
+    position: relative;
+bottom: 57px;
+left: -9px;
+}    
+    .Faq{
+        position: relative;
+        /* top: -1263px; */
+       background-color:  #a2bb4975;
+    }  
+       .contact2{
+           display: block;
+           font-size: 100px;
+           font-weight: bolder;
+           text-align: center;
+           font-family: 'Bricolage Grotesque', sans-serif;
+        
+    }
+    .address{
+        display: block;
+        font-size: 57px;
+        font-weight: bolder;
+     
+        font-family: 'Bricolage Grotesque', sans-serif;
+     
+    }
+    .mapouter {
+        position: relative;
+        text-align: right;
+        width: 600px;
+        height: 400px;
+        
+      }
+    
+      .gmap_canvas {
+        overflow: hidden;
+        background: none !important;
+        width: 600px;
+        height: 400px;
+      }
+    
+      .gmap_iframe {
+        width: 600px !important;
+        height: 400px !important;
+      } 
+      .contact-information{
+        display: block;
+        font-family:'Bricolage Grotesque', sans-serif;;
+    }
+    .Information{
+        font-family:  'Bricolage Grotesque', sans-serif;;
+        font-size: 20px;
+        color: #f70b0b;
+    }
+    .Form-filling{
+        margin: 15px;
+        border: dotted #5db336 1px;
+        max-width: fit-content;
+        padding-left: 77px;
+        padding-top: 25px;
+        padding-bottom: 14px;
+        padding-right: 18px;
+        position: relative;
+        bottom: 379px;
+        left: 723px;
+    }
+    .your-name{
+        border: dotted #1bffb4 1px;
+        margin-bottom: 23px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 108px;
+    padding-left: 19px;
+    width: 151px;
+    height: 23px;
+    border-left-width: 2px;
+    border-top-width: 2px;
+    }
+    .your-contact-details{
+        border: dotted #1bffb4 1px;
+        margin-bottom: 23px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    /* padding-right: 108px; */
+    padding-left: 19px;
+    width: 151px;
+    height: 23px;
+    border-left-width: 2px;
+    border-top-width: 2px;
+    }
+    #submit-button{
+       border: solid #1bffb4 1px;
+       padding-right: 44px;
+    padding-bottom: 8px;
+    padding-left: 23px;
+    padding-top: 4px;
+    }
+    .social-icon {
+        display: inline-block;
+        margin-right: 10px;
+        top: -101px;
+        left: 1085px;
+        position: relative;
+    }
+    
+    .social-icon img {
+        width: 30px;
+        height: 30px;
+    }
+    .social-icon1{
+        display: inline-block;
+        margin-right: 10px;
+        top: -70px;
+        left: 1180px;
+        position: relative;
+     }
+     #flex-container{
+        border: solid aqua 1px;
+        position: relative;
+        height: 539.017px;
+margin-bottom: -631px;
+        /* top: -1284.6px; */
+    }
+     .image1{
+        width: 14%;
+        margin: 13px;
+    }
+    #image1{
+        position: relative;
+        bottom: 65px;
+        left: 17px;
+    }
+    #image2{
+        position: relative;
+        bottom: -46px;
+        /* left: 17px;  */
+    }
+    #image3{
+        position: relative;
+        bottom: -5px;
+        left: 17px;
+    }
+    #image4{
+        position: relative;
+        /* bottom: -5px; */
+        top: 86px;
+        left: 17px; 
+    }
+    #image6{
+        position: relative;
+        bottom: -85px;
+    }
